@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Vivek/OneDrive/Desktop/gitandgithub/localrepo",
-      "program": "c:/Users/Vivek/OneDrive/Desktop/gitandgithub/localrepo/build/Debug/outDebug",
+      "cwd": "c:/Users/Vivek/OneDrive/Desktop/gitandgithub/.vscode",
+      "program": "c:/Users/Vivek/OneDrive/Desktop/gitandgithub/.vscode/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
